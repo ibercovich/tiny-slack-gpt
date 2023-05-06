@@ -1,5 +1,7 @@
 """
 Single file app to run a GPT slackbot
+Includes basic Text2SQL capabilities
+
 1-) create application on slack
 2-) enable socket mode
 3-) create OAuth tokens
