@@ -3,7 +3,7 @@
 Single file app to run a GPT slackbot
 Includes basic Text2SQL capabilities
 
-Use manifest.json or follow the following steps.
+Import manifest.json into the slack app or follow the following steps.
 
 - create application on slack
 - enable socket mode
